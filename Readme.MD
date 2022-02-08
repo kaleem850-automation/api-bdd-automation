@@ -19,7 +19,3 @@
 2. Execute the command `mvn clean verify` in the project root directory
 
 > Note: Find the generated report at `target/site/serenity/index.html`
-
-
-
-
